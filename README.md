@@ -41,10 +41,10 @@ php bin/magento cache:flush
 
 ```
 
-### Use Our Guide for Stepwise Installation: [Magento Social Login](https://www.elightwalk.com/docs/magento/social-login)
+Use Our Guide for Stepwise Installation: [Magento Social Login](https://www.elightwalk.com/docs/magento/social-login)
 
 
-More Elightwalk Extensions on Github Marketplace 
+**More Elightwalk Extensions on Github Marketplace**
 
 ☞ [Magento SMTP](https://www.elightwalk.com/magento-smtp.html)
 
