@@ -17,7 +17,7 @@ Elightwalk's Magento Social Login Extension is intended for rapid login to the M
 - This Extension will help your e-commerce shop improve the user experience.
 
 
-Know More Details About the Extension: [Magento - Social Login](https://www.elightwalk.com/magento-social-login.html)
+☞ Know More Details About the Extension: [Magento - Social Login](https://www.elightwalk.com/magento-social-login.html)
 
 
 ## Installation Guide
@@ -41,7 +41,7 @@ php bin/magento cache:flush
 
 ```
 
-Use Our Guide for Stepwise Installation: [Magento Social Login](https://www.elightwalk.com/docs/magento/social-login)
+☞ Use Our Guide for Stepwise Installation: [Magento Social Login](https://www.elightwalk.com/docs/magento/social-login)
 
 
 **More Elightwalk Extensions on Github Marketplace**
